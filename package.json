@@ -1,0 +1,11 @@
+{
+  "name": "scramble_word",
+  "version": "1.0.0",
+  "description": "A command line game where users have to guess a word which is presented to them in scrambled.",
+  "main": "scrambled_word.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zafar Saleem",
+  "license": "ISC"
+}
