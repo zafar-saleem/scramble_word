@@ -11,4 +11,5 @@ In order to run this project in the browser successfully, please follow the step
 	1. Clone this repository.
 	2. CD to  folder.
 
-## Sample user input test
+## Sample Input
+![Find Country](https://raw.githubusercontent.com/zafar-saleem/scramble_word/master/scramblewords.png)
