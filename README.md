@@ -8,8 +8,10 @@ Below is the stack used in this project. Please follow the getting started secti
 
 ## Getting started
 In order to run this project in the browser successfully, please follow the steps below!
+````
 	1. Clone this repository.
 	2. CD to  folder.
+````
 
 ## Sample Input
 ![Find Country](https://raw.githubusercontent.com/zafar-saleem/scramble_word/master/scramblewords.png)
